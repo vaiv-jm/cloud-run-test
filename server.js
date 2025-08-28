@@ -17,7 +17,7 @@ app.get('/health', (req, res) => {
 
 app.get('/test', (req, res) => {
   res.json({
-    message: 'Test endpoint working!',
+    message: 'Test endpoint working!!',
     timestamp: new Date().toISOString(),
     environment: process.env.NODE_ENV || 'development'
   });
