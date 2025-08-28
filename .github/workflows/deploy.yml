@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  PROJECT_ID: coastal-case-389608  # 여기에 실제 프로젝트 ID 입력
+  PROJECT_ID: zinc-hour-465105-g9  # 여기에 실제 프로젝트 ID 입력
   SERVICE_NAME: cloud-run-test
   REGION: asia-northeast3
 
